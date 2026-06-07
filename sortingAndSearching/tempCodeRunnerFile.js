@@ -1,0 +1,1 @@
+ arr1.length + arr2.length
